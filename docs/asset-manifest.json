@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pet-shop-v4-cra/static/css/main.85459dd0.chunk.css",
+    "main.js": "/pet-shop-v4-cra/static/js/main.37e88fbc.chunk.js",
+    "main.js.map": "/pet-shop-v4-cra/static/js/main.37e88fbc.chunk.js.map",
+    "runtime-main.js": "/pet-shop-v4-cra/static/js/runtime-main.2acebb1d.js",
+    "runtime-main.js.map": "/pet-shop-v4-cra/static/js/runtime-main.2acebb1d.js.map",
+    "static/js/2.282f411a.chunk.js": "/pet-shop-v4-cra/static/js/2.282f411a.chunk.js",
+    "static/js/2.282f411a.chunk.js.map": "/pet-shop-v4-cra/static/js/2.282f411a.chunk.js.map",
+    "index.html": "/pet-shop-v4-cra/index.html",
+    "precache-manifest.540a5eb6d482bb160025918f0baa62d0.js": "/pet-shop-v4-cra/precache-manifest.540a5eb6d482bb160025918f0baa62d0.js",
+    "service-worker.js": "/pet-shop-v4-cra/service-worker.js",
+    "static/css/main.85459dd0.chunk.css.map": "/pet-shop-v4-cra/static/css/main.85459dd0.chunk.css.map",
+    "static/js/2.282f411a.chunk.js.LICENSE.txt": "/pet-shop-v4-cra/static/js/2.282f411a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2acebb1d.js",
+    "static/js/2.282f411a.chunk.js",
+    "static/css/main.85459dd0.chunk.css",
+    "static/js/main.37e88fbc.chunk.js"
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "name": "pet-shop-v4-cra",
+  "homepage": "https://AndrasGitServer.github.io/pet-shop-v4-cra/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
